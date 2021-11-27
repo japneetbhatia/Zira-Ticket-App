@@ -5,7 +5,7 @@
 
 
 ## Tech Stack : 
-### HTML, CSS, Javascript
+### HTML, CSS, Javascript, Jquery
 
 ## Screenshots : 
 
